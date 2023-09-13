@@ -1,4 +1,4 @@
-# workshopmongo
+# workshopmongo - construção api
 
 Construção de API para redes sociais, tendo como entidades Usuários, Posts e Comentários. Usa paradigma orientado a documentos e relacional.
 
