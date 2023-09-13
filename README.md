@@ -1,5 +1,5 @@
 # workshopmongo - construção api
-
+22
 Construção de API para redes sociais, tendo como entidades Usuários, Posts e Comentários. Usa paradigma orientado a documentos e relacional.
 
 Tecnologias usadas: SpringBoot 2 e MongoDB
